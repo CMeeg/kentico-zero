@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KenticoZero.Eng.Infrastructure", "KenticoZero.Eng.Infrastructure\KenticoZero.Eng.Infrastructure.csproj", "{1EBAD02F-E630-4EFE-A485-645773A234D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EBAD02F-E630-4EFE-A485-645773A234D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EBAD02F-E630-4EFE-A485-645773A234D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EBAD02F-E630-4EFE-A485-645773A234D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EBAD02F-E630-4EFE-A485-645773A234D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7685AC51-5F81-4A22-BBDD-6E7C99E52787}
+	EndGlobalSection
+EndGlobal
